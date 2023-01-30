@@ -1,0 +1,9 @@
+POSTMAN
+
+GET         http://localhost:7070/item
+GET         http://localhost:7071/order
+GET         http://localhost:7070/actuator/health
+
+
+
+
